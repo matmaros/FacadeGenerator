@@ -34,7 +34,7 @@ The Facade Generator combines a series of hypothetical building facade elements 
 
 The python file attached combines these different blocks and produces all possible outcomes.  A simple L systems combines all blocks and produces an excel sheet as a graphical representation of the result.  The logic can be used with CAD blocks substituted in place of the simple text representationsn of the building components.  This will produce a higher quality graphic more like a typical building elevation as shown in the project description above.
 
-The python file attached combines these different blocks and produces all possible outcomes.  A simple L systems combines all blocks and produces an excel sheet as a graphical representation of the result as shown below.  
+The python file attached combines these different blocks and produces all possible outcomes.  A simple L systems combines all blocks and produces an excel sheet as a graphical representation of the result as shown in the 'Example Output' file and the image below.  
 
 ![image](https://user-images.githubusercontent.com/67350711/120079150-9d292b80-c080-11eb-85fb-b7de91ac1f30.png)
 
